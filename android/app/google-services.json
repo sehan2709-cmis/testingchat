@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517019253752",
+    "project_id": "socialchatting-6f61a",
+    "storage_bucket": "socialchatting-6f61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517019253752:android:c0f7e1ab4f79918f1af40d",
+        "android_client_info": {
+          "package_name": "com.dfa.flutterchatdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKWqvJ7OyXxmqyDlJgArfhAwoiIhyz-_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
