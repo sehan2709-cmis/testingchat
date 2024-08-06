@@ -50,19 +50,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBKWqvJ7OyXxmqyDlJgArfhAwoiIhyz-_w',
-    appId: '1:517019253752:android:c0f7e1ab4f79918f1af40d',
-    messagingSenderId: '517019253752',
-    projectId: 'socialchatting-6f61a',
-    storageBucket: 'socialchatting-6f61a.appspot.com',
+    apiKey: 'AIzaSyC4WOxSwpIJ6IlJrosP3_DpIBYzR69XR6U',
+    appId: '1:871277061461:android:8b19604dc7a4e56f19fbdc',
+    messagingSenderId: '871277061461',
+    projectId: 'authtutorial-f1e34',
+    storageBucket: 'authtutorial-f1e34.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDx2BRtJsjIB6vQUtycbQbSC8E4OH_P7w8',
-    appId: '1:517019253752:ios:4126b97e3dd419531af40d',
-    messagingSenderId: '517019253752',
-    projectId: 'socialchatting-6f61a',
-    storageBucket: 'socialchatting-6f61a.appspot.com',
+    apiKey: 'AIzaSyC9Gw73IGCMZQctzW4xIROyTV0e2NawCGU',
+    appId: '1:871277061461:ios:2b08f5783d365b0919fbdc',
+    messagingSenderId: '871277061461',
+    projectId: 'authtutorial-f1e34',
+    storageBucket: 'authtutorial-f1e34.appspot.com',
+    androidClientId: '871277061461-hn5o154qd4bhblcusiousqmfna66dvqk.apps.googleusercontent.com',
+    iosClientId: '871277061461-7nri8ii6fdava6gkgvvo5nom8dqhr6n9.apps.googleusercontent.com',
     iosBundleId: 'com.duytq.flutterchatdemo',
   );
+
 }

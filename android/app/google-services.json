@@ -1,26 +1,51 @@
 {
   "project_info": {
-    "project_number": "517019253752",
-    "project_id": "socialchatting-6f61a",
-    "storage_bucket": "socialchatting-6f61a.appspot.com"
+    "project_number": "871277061461",
+    "project_id": "authtutorial-f1e34",
+    "storage_bucket": "authtutorial-f1e34.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:517019253752:android:c0f7e1ab4f79918f1af40d",
+        "mobilesdk_app_id": "1:871277061461:android:8b19604dc7a4e56f19fbdc",
         "android_client_info": {
           "package_name": "com.dfa.flutterchatdemo"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "871277061461-hn5o154qd4bhblcusiousqmfna66dvqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dfa.flutterchatdemo",
+            "certificate_hash": "082a96cd4ccc51c45d99a3f4f989da48ab937131"
+          }
+        },
+        {
+          "client_id": "871277061461-hli787jij370kkghe382lko97f78u506.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBKWqvJ7OyXxmqyDlJgArfhAwoiIhyz-_w"
+          "current_key": "AIzaSyC4WOxSwpIJ6IlJrosP3_DpIBYzR69XR6U"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871277061461-hli787jij370kkghe382lko97f78u506.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871277061461-7nri8ii6fdava6gkgvvo5nom8dqhr6n9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.duytq.flutterchatdemo"
+              }
+            }
+          ]
         }
       }
     }

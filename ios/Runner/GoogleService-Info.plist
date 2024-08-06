@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>347976604232-tkt67s3gule9mfekuegqprqai45f12km.apps.googleusercontent.com</string>
+	<string>871277061461-7nri8ii6fdava6gkgvvo5nom8dqhr6n9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.347976604232-tkt67s3gule9mfekuegqprqai45f12km</string>
+	<string>com.googleusercontent.apps.871277061461-7nri8ii6fdava6gkgvvo5nom8dqhr6n9</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>347976604232-cs3athvek5l2ehqjudkhpj0qq8rgp8i9.apps.googleusercontent.com</string>
+	<string>871277061461-hn5o154qd4bhblcusiousqmfna66dvqk.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAdn3U0F35xhx2zUFfz6XPOcNm50erGZS0</string>
+	<string>AIzaSyC9Gw73IGCMZQctzW4xIROyTV0e2NawCGU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>347976604232</string>
+	<string>871277061461</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.duytq.flutterchatdemo</string>
 	<key>PROJECT_ID</key>
-	<string>flutterchatdemo</string>
+	<string>authtutorial-f1e34</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutterchatdemo.appspot.com</string>
+	<string>authtutorial-f1e34.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:347976604232:ios:2a379f1827e4427b</string>
-	<key>DATABASE_URL</key>
-	<string>https://flutterchatdemo.firebaseio.com</string>
+	<string>1:871277061461:ios:2b08f5783d365b0919fbdc</string>
 </dict>
 </plist>
